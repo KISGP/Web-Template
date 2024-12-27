@@ -1,0 +1,16 @@
+{
+  "cSpell.words": [
+    "nextui",
+    "tseslint"
+  ],
+  "css.customData": [
+    ".vscode/tailwindcss.json"
+  ],
+  "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/src",
+  },
+  "explorer.fileNesting.patterns": {
+    "vite.config.*": "",
+    "package.json": "*.json, *.config.js, vite.config.ts, .prettierrc",
+  }
+}
